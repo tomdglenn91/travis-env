@@ -1,2 +1,2 @@
-console.log('reading process env vars')
+console.log('reading env vars')
 console.log(process.env)
